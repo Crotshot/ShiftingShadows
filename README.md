@@ -1,7 +1,7 @@
 # ShiftingShadows
 
 Shifting Shadows was a project game developed for Game Development Practicum module, this project
-was created alone in Unity over the coarse of a semester.
+was created alone in Unity over the course of a semester.
 
 In a fictional world all beings of evil magic had been cast into a series of underground prisons 
 called the Abyss. This ushered in a golden era of peace for all the land, but the end times have
